@@ -1,0 +1,9 @@
+{
+	"name": "adf-microservices-lab",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "34c0d346-89a3-4782-8f5e-c0ac307410d6",
+		"tenantId": "9a9f33d2-1719-4b4b-9cde-48ec3950c980"
+	}
+}
